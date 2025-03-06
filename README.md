@@ -34,7 +34,8 @@ This project is a **static front-end clone of Amazon**, built using **HTML & CSS
 
 ## 📷 Screenshots  
 ![Screenshot (321)](https://github.com/user-attachments/assets/b1aa7b92-d235-4e19-b960-2820a3236f90)
-<img width="955" alt="image" src="https://github.com/user-attachments/assets/5b9c63e0-0ad7-43a9-bbde-bb0a5441b676" />
+![Screenshot (322)](https://github.com/user-attachments/assets/707f1cee-13c1-47e5-b312-768cc88c1ddb)
+
 
 
 
