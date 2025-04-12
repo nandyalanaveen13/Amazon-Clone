@@ -5,6 +5,7 @@
 This Amazon Clone is a full-stack e-commerce web application that replicates the core functionalities of the Amazon website. The frontend is built using HTML, CSS, and JavaScript, delivering a responsive and interactive user interface. The backend is developed using Java Spring Boot and connected to a MySQL database to handle all business logic, including user management, product catalog, cart system, and order processing.
 
 It is designed to provide a real-world project experience by combining frontend and backend development, making it ideal for full-stack Java developers and students aiming to build industry-level e-commerce platforms.
+
 📌 Key Features
 Frontend (HTML, CSS, JavaScript)
 Responsive homepage with header, navigation bar, product grid, and footer
