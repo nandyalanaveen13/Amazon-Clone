@@ -1,0 +1,4 @@
+com\naveen\amazon\AmazonApplication.class
+com\naveen\amazon\model\Product.class
+com\naveen\amazon\controller\ProductController.class
+com\naveen\amazon\service\ProductService.class
